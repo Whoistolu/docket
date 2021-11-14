@@ -4,4 +4,4 @@ import TodoContainer from "./components/TodoContainer";
 
 
 
-ReactDOM.render(TodoContainer, document.getElementById("root"));
+ReactDOM.render(<TodoContainer />, document.getElementById("root"));
